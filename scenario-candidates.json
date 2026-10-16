@@ -1,0 +1,34 @@
+{
+  "status": "local-unreleased",
+  "sourcePackage": "full-aigc-skills/soundcraft-skills",
+  "skills": [
+    {
+      "name": "soundcraft-editor",
+      "sha256": "628bf2cbf5eb1522015a88622d17574e5e32ed530c9cf61bbfd480e3d96af9b9"
+    },
+    {
+      "name": "soundcraft-podcast-cleanup",
+      "sha256": "ced42287d68afd6c2ab4d4e99adc3213b85970f6e3f0c6ce844e8c7897519b9c"
+    },
+    {
+      "name": "soundcraft-voice-over-mix",
+      "sha256": "8981c20ffabdae04b558dc72c6d39640809e8d72b5e65038c134d47d91d8c264"
+    },
+    {
+      "name": "soundcraft-audio-edit",
+      "sha256": "f8f8f2f473a0faad864b6c4541c96336e557b6d94be0ce4183d150d79607d40f"
+    },
+    {
+      "name": "soundcraft-music-demo",
+      "sha256": "00fc3a66672bf960371170d0b550d1f652ef9ed780907c7feb18560f4767021f"
+    },
+    {
+      "name": "soundcraft-audio-delivery",
+      "sha256": "4061e3aaba52d324ece31757f3cd6fc46f6ca6f53267dbf84ca05c8251da06a2"
+    },
+    {
+      "name": "soundcraft-dialogue-leveling",
+      "sha256": "9ca73f1d443908026efd9a8f27188a941ce8785076265bbda9b8ccf4360bb9fe"
+    }
+  ]
+}
