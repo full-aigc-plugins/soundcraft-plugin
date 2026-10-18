@@ -13,7 +13,7 @@
 
 > 在同一个编辑会话里处理人声、音乐与音效：轨道和采样范围写清楚，保存重开之后仍然能核对改了什么。
 
-[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261018.5-1A73E8)](#项目定位)
+[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261019.1-1A73E8)](#项目定位)
 [![技能](https://img.shields.io/badge/skills-10-00A67E)](#技能)
 [![MCP 服务器](https://img.shields.io/badge/MCP%20servers-1-6E56CF)](#mcp-工具)
 [![许可证](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
