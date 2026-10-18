@@ -8,7 +8,7 @@
 
     - id: mcp-soundcraft-soundcraft-editor
       name: '@deepseek-ai/dsh-mcp-client'
-      disabled: !!js "!process.env.DSH_MCP_SOUNDCRAFT"
+      disabled: !!js "process.env.DSH_MCP_SOUNDCRAFT === '0'"
       config:
         serverName: "soundcraft-editor"
         toolCallTimeoutMs: 60000
