@@ -20,7 +20,11 @@
         "authentication": "ON_USE"
       },
       "category": "Creativity",
-      "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync."
+      "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync.",
+      "line": "full-aigc",
+      "componentTypes": [
+        "ui"
+      ]
     }
   ],
   "interface": {
