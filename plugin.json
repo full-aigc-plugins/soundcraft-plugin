@@ -2,17 +2,17 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "soundcraft",
   "version": "0.1.0-dev.20261019.1",
-  "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync.",
+  "description": "口播清理、多人响度统一、配音混音、音频剪辑与循环拼接；按段落与静音区间处理，保持对时关系。",
   "license": "Apache-2.0",
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "SoundCraft · Audio Editing",
+        "displayName": "SoundCraft（音频处理）",
         "logo": "./assets/official-logo.png",
         "logoDark": "./assets/official-logo.png",
         "composerIcon": "./assets/official-logo.png",
         "composerIconDark": "./assets/official-logo.png",
-        "shortDescription": "Dialogue cleanup, loudness matching, mixing and audio edits"
+        "shortDescription": "口播清理、响度统一、混音与音频剪辑"
       }
     }
   }

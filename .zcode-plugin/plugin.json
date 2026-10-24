@@ -1,10 +1,10 @@
 {
   "name": "soundcraft",
   "version": "0.1.0-dev.20261019.1",
-  "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync.",
+  "description": "口播清理、多人响度统一、配音混音、音频剪辑与循环拼接；按段落与静音区间处理，保持对时关系。",
   "license": "Apache-2.0",
   "skills": "./skills/",
-  "displayName": "SoundCraft · Audio Editing",
+  "displayName": "SoundCraft（音频处理）",
   "icon": "./assets/official-logo.png",
   "mcpServers": {
     "soundcraft-editor": {
@@ -21,15 +21,15 @@
     }
   },
   "displayName_i18n": {
-    "en": "SoundCraft · Audio Editing"
+    "zh-CN": "SoundCraft（音频处理）"
   },
   "ui": {
     "surfaces": [
       {
         "id": "editor",
         "title": {
-          "en-US": "SoundCraft · Audio Editing",
-          "zh-CN": "SoundCraft · 音频处理"
+          "en-US": "SoundCraft (Audio Editing)",
+          "zh-CN": "SoundCraft（音频处理）"
         },
         "icon": "music",
         "server": "soundcraft-editor",

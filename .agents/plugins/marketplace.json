@@ -10,8 +10,8 @@
       },
       "interface": {
         "logo": "https://cdn.jsdelivr.net/gh/full-aigc-plugins/soundcraft-plugin@v0.1.0-dev.20261018.5/assets/official-logo.png",
-        "displayName": "SoundCraft · Audio Editing",
-        "shortDescription": "Dialogue cleanup, loudness matching, mixing and audio edits"
+        "displayName": "SoundCraft（音频处理）",
+        "shortDescription": "口播清理、响度统一、混音与音频剪辑"
       },
       "version": "0.1.0-dev.20261019.1",
       "icon": "https://cdn.jsdelivr.net/gh/full-aigc-plugins/soundcraft-plugin@v0.1.0-dev.20261019.1/assets/official-logo.png",
@@ -20,7 +20,7 @@
         "authentication": "ON_USE"
       },
       "category": "Creativity",
-      "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync.",
+      "description": "口播清理、多人响度统一、配音混音、音频剪辑与循环拼接；按段落与静音区间处理，保持对时关系。",
       "line": "full-aigc",
       "componentTypes": [
         "ui"
@@ -28,6 +28,6 @@
     }
   ],
   "interface": {
-    "displayName": "SoundCraft · Audio Editing"
+    "displayName": "SoundCraft（音频处理）"
   }
 }
