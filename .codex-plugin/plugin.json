@@ -4,10 +4,12 @@
   "skills": "./skills/",
   "mcpServers": "./.codex-plugin/mcp.json",
   "interface": {
-    "displayName": "SoundCraft Use",
+    "displayName": "SoundCraft · Audio Editing",
     "logo": "./assets/official-logo.png",
     "logoDark": "./assets/official-logo.png",
     "composerIcon": "./assets/official-logo.png",
-    "composerIconDark": "./assets/official-logo.png"
-  }
+    "composerIconDark": "./assets/official-logo.png",
+    "shortDescription": "Dialogue cleanup, loudness matching, mixing and audio edits"
+  },
+  "description": "Dialogue cleanup, loudness matching, voice-over mixing, audio edits and loop stitching. Processing follows segments and silence ranges while keeping sync."
 }
