@@ -31,7 +31,7 @@
           "en-US": "SoundCraft · Audio Editing",
           "zh-CN": "SoundCraft · 音频处理"
         },
-        "icon": "audio-lines",
+        "icon": "music",
         "server": "soundcraft-editor",
         "resourceUri": "ui://soundcraft/panel.html",
         "availability": "session"
